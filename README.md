@@ -1,4 +1,4 @@
-# Prometheus & Grafana Monitoring for a Go App
+# Application & System Monitoring Stack
 
 A hands-on tutorial for monitoring applications with Prometheus and Grafana. This project demonstrates both application-level metrics (HTTP requests from a Go web server) and system-level metrics (CPU, memory, disk) using Node Exporter.
 
